@@ -3,7 +3,7 @@
  * This class will not compile until you have completed the requirements outlined in 
  * the lab description.
  * 
- * @author Amanda Fernandez (abc123)
+ * @author Caroline Oliver (ycz017)
  * UTSA CS 3443 - Lab 2
  * Fall 2022
  */
